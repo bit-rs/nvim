@@ -1,2 +1,2 @@
-# nvim
-🌶️ Neovim extension
+# 🌶️ Neovim extension
+Simple syntax highlighting.
