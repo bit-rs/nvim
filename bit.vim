@@ -4,7 +4,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syntax keyword bitKeyword let fn type use as return raise bail if else for while in break continue
+syntax keyword bitKeyword let fn type use as return raise bail if else for while in break continue satl with to send recv launch
 syntax match   bitBoolean /\<\(true\|false\|null\)\>/
 syntax match   bitNumber  /\<[0-9]\+\(\.[0-9]\+\)\?\>/
 syntax match   bitSelf    /\<self\>/
